@@ -17,14 +17,7 @@ class Ellipse:
     def __init__(self, a, b, c, d):
         self.sp = a, b
         self.ep = c, d
-
-# class_list = [Line, Rect, Ellipse]
-
-
-# def random_class():
-#     class_i = random.choice(class_list)
-#     a, b, c, d = [random.randint(0, 100) for i in range(4)]
-#     return class_i(a, b, c, d) 
+        
 
 
 def random_class_two(random_class_i):
