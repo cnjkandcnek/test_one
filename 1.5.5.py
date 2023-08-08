@@ -41,3 +41,6 @@ for i in elements:
     if isinstance(Line, i):
         i.sp = (0, 0)
         i.ep = (0, 0)
+
+
+####### Это не нужный комментарий
